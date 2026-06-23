@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Debug logs
+*.log
+
+# Claude Code
+.claude/
+
+# Build output
+dist/
+build/
+
+# Env files
+.env
+.env.local
